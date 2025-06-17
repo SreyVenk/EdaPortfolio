@@ -1,4 +1,4 @@
-# EDA Portfolio by Himari Eriguchi
+# EDA Portfolio by Sreyes Venkat
 
 This portfolio showcases exploratory data analysis (EDA) projects I've done to demonstrate skills in Python, data cleaning, visualization, and insights generation.
 
