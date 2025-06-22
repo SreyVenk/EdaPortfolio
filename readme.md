@@ -4,11 +4,14 @@ This portfolio showcases exploratory data analysis (EDA) projects I've done to d
 
 ## Projects
 
-- [Titanic Survival Analysis](./titanic-analysis)  
+- [Titanic Survival Analysis](./titanic-analysis)  (COMPLETED) ✅
   Investigates passenger demographics and survival rates on the Titanic dataset.
 
-- [Airbnb NYC Listings](./airbnb-nyc)  
+- [Bird Image Feature Extraction](./bird-feature-extraction)  (COMPLETED) ✅
+  Converts bird images to grayscale, resizes them, extracts block-based and sliding-window features, and visualizes the resulting 2D and 3D feature spaces for classification purposes.
+
+- [Airbnb NYC Listings](./airbnb-nyc)  (WIP) ⚒️
   Explores factors affecting Airbnb prices across NYC boroughs.
 
-- [Netflix Content Trends](./netflix-trends)  
+- [Netflix Content Trends](./netflix-trends)  (WIP) ⚒️
   Analyzes content types, ratings, and countries over time.
