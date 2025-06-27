@@ -4,7 +4,9 @@ This portfolio showcases exploratory data analysis (EDA) projects I've done to d
 
 ## Projects
 KEY:
+
 🦾 - **Machine Learning**
+
 📚 - **Data Analysis**
 
 
