@@ -1,4 +1,4 @@
-# 🏙 NYC Airbnb Data Analysis
+#  NYC Airbnb Data Analysis
 
 This project explores the 2019 New York City Airbnb dataset to uncover insights about pricing, location, availability, and customer activity. Using Python and visualization tools, we perform exploratory data analysis (EDA) to understand what factors might influence a successful Airbnb listing.
 
@@ -53,4 +53,5 @@ This project explores the 2019 New York City Airbnb dataset to uncover insights 
 ##  Author
 Himari Eriguchi  
 Aspiring Data Scientist | Computer Science & Data Science | https://www.linkedin.com/in/sreyesvenkat/
+
 
