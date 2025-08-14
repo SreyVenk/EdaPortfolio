@@ -1,4 +1,4 @@
-# 🐦 Bird Image Feature Extraction and Visualization
+# Bird Image Feature Extraction and Visualization
 
 This project processes a small dataset of bird images (American Robin, Cardinal, and Sparrow), converts them to grayscale, resizes them, extracts block-based features, and visualizes the resulting feature space in 2D and 3D. It also demonstrates feature extraction using both non-overlapping and sliding windows.
 
@@ -9,14 +9,14 @@ Images used:
 - `Cardinal.PNG`
 - `Sparrow.PNG`
 
-## 🧰 Libraries Used
+## Libraries Used
 
 - `cv2` (OpenCV)
 - `pandas`
 - `matplotlib`
 - `mpl_toolkits.mplot3d`
 
-## 🧪 Project Workflow
+## Project Workflow
 
 1. **Image Loading and Visualization**
    - Loads and displays RGB and grayscale versions of each bird image.
@@ -56,10 +56,11 @@ Images used:
 2. Run the script in a Python environment with the required packages.
 3. All outputs will be saved to the same `birdsDataset-main` directory.
 
-## 📌 Notes
+## Notes
 
 - Make sure OpenCV (`cv2`) and `matplotlib` are installed:
 
 
 
 - Image paths are hardcoded—modify them if using a different directory.
+
