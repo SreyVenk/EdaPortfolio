@@ -44,13 +44,13 @@ Images used:
 6. **2D and 3D Visualization**
    - First three features plotted using `matplotlib` to observe class separation.
 
-## 📊 Output Files
+##  Output Files
 
 - `block_feature_vectors.csv`
 - `sliding_block_feature_vectors.csv`
 - `merged_featurespace.csv`
 
-## 📝 How to Run
+##  How to Run
 
 1. Ensure image paths are correctly set to your local machine.
 2. Run the script in a Python environment with the required packages.
@@ -63,4 +63,5 @@ Images used:
 
 
 - Image paths are hardcoded—modify them if using a different directory.
+
 
